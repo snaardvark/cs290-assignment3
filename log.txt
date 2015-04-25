@@ -1,3 +1,11 @@
+Start: Sat, 25 Apr 2015 11:05:00 -0400
+End: Sat, 25 Apr 2015 11:21:54 -0400 
+Tasks: Updates to parseGit function in functions.js
+
+Start: Fri, 24 Apr 2015 21:00:00 -0400
+End: Sat, 25 Apr 2015 00:56:59 -0400 
+Tasks: Added uselessFunction, bar function and parseGit functions in functions.js
+
 Start: Tue, 21 Apr 2015 21:00:00 -0400 
 End: Tue, 21 Apr 2015 22:07:31 -0400 
 Tasks: Updates to variables.js enable passing variableModification, isString and the first isNull test.
