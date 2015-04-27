@@ -1,6 +1,10 @@
-Start: Sun, 26 Apr 2015 21:30:00 -0400
+Start: Sun, 26 Apr 2015 21:59:00 -0400
 End: Sun, 26 Apr 2015 22:26:48 -0400 
 Tasks: Fixed some last problems with functions.js and objects.js
+
+Start: Sun, 26 Apr 2015 19:17:00 -0400
+End: Sun, 26 Apr 2015 21:59:00 -0400 
+Tasks: Worked in part 2 of assignment to retrieve and parse github gists. Started index.html and gist-grabber.js
 
 Start: Sun, 26 Apr 2015 11:00:00 -0400
 End: Sun, 26 Apr 2015 17:43:07 -0400 
